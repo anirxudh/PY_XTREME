@@ -27,7 +27,7 @@ The first and the most important directory. For those who are entirely new to Po
 - [Palindrome](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/Palindrome.ipynb)
 - [BMI](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/BMI.ipynb)
 - [Degree to Fahrenheit]()
-- [LCM and HCF]()
+- [LCM and HCF](https://github.com/CSI-SCT-SB/PY_XTREME/blob/main/BeginnerBasics/lcm%26hcf.ipynb)
 ## For Queries Contact Maintainer ☎️:
 [Anirudh S Nair](https://wa.me/<+919656100940>)
 
